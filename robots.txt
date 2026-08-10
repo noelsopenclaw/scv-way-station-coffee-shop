@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noelsopenclaw.github.io/scv-way-station-coffee-shop/sitemap.xml
